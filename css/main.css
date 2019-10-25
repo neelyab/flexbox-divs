@@ -106,6 +106,7 @@ body {
   padding: 2em;
   font-size: 1.25em;
   height: 100%;
+  background-color: black;
 }
 
 .wrapper {
@@ -120,15 +121,21 @@ body {
   justify-content: center;
   align-items: center;
   color: #fff;
+  background-color: black;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
   height: 300px;
   width: 30%;
+  padding: 20px 20px;
 }
 
+.div-1 {
+   border-right: solid 1px grey;
+}
+.div-2 {
+  border-right: solid 1px grey;
 
-
+}
 
 /* ==========================================================================
    Helper classes
